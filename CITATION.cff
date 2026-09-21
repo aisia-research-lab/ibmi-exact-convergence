@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "ibmi-exact-convergence"
+type: software
+authors:
+  - family-names: Nguyen
+    given-names: Binh T.
+year: 2026
+license: MIT
+repository-code: "https://github.com/aisia-research-lab/ibmi-exact-convergence"
+description:
+  Reproducibility code for Exact Convergence Certificates and Ordering Theory for Overlapping Iterative Block Matrix Inversion.
+keywords:
+  - iterative block matrix inversion
+  - symmetric positive definite matrices
+  - return operator
+  - convergence certificate
+  - sweep ordering
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Nguyen
+      given-names: Binh T.
+  title: "Exact Convergence Certificates and Ordering Theory for Overlapping Iterative Block Matrix Inversion"
+  year: 2026
+  journal: "SIAM Journal on Matrix Analysis and Applications"
+  notes: "Submitted manuscript"

@@ -1,0 +1,11 @@
+[build-system]
+requires=["setuptools>=68"]
+build-backend="setuptools.build_meta"
+[project]
+name="ibmi-exact-convergence"
+version="1.0.0"
+description="Reproducibility code for Exact Convergence Certificates and Ordering Theory for Overlapping Iterative Block Matrix Inversion"
+requires-python=">=3.10"
+dependencies=["numpy>=1.24","scipy>=1.10","pandas>=2.0","matplotlib>=3.7"]
+[tool.setuptools.packages.find]
+where=["src"]
